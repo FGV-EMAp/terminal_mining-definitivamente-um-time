@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/1k3VZ9R5)
 # Minerando Textos no Terminal
 Usando sed e outras ferramentas do terminal, o aluno deve manipular e minerar arquivos de texto, além de se familiarizar com o uso de regex e paths.
 
